@@ -1,0 +1,18 @@
+{
+  "name": "Sleekjs",
+  "description": "Sleekjs with Angular",
+  "version": "2.0.0",
+  "private": true,
+  "author": "kavya@cubettech.com",
+  "dependencies": {
+    "angular": "1.4.x",
+    "angular-loader": "1.4.x",
+    "angular-mocks": "~1.4.x",
+    "angular-ui-router": "~0.2.15",
+    "requirejs-text": "2.0.x",
+    "requirejs": "2.1.x",
+    "bootstrap": "~3.3.0",
+    "jquery": "~2.1.4"
+  },
+  "devDependencies": {}
+}

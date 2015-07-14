@@ -1,0 +1,18 @@
+<h2>Users Are</h2>
+<br>           
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Name</th>      
+        <th>Email</th>
+        <th>Created</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr ng-repeat="item in users">
+        <td>{{item.name}}</td>
+        <td>{{item.email}}</td>
+        <td>{{item.created}}</td>
+      </tr>    
+    </tbody>
+  </table>

@@ -1,0 +1,15 @@
+{
+"module": "users",
+"slug":"usersMOD",
+"includes":[{	
+	"sidemenu":[{
+			"name":"Example",
+			"template":"users/client/views/partials/sidemenu.html"		
+		},
+		{
+			"name":"Sample",
+			"template":"users/client/views/partials/fooetr.html"		
+		}]
+
+	}]
+}

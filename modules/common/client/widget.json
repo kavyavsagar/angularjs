@@ -1,0 +1,19 @@
+{
+"module": "common",
+"slug":"commonMOD",
+"includes":[{
+	"sidemenu":[{
+			"name":"sample",
+			"template":"common/client/views/partials/sidemenu.html"			
+		},
+		{
+			"name":"Example",
+			"template":"common/client/views/partials/sidemenu.html"			
+		}],
+	"banners" :[{
+			"name" : "banner1",
+			"image" : "test banners"
+		}]
+
+	}]
+}
